@@ -51,16 +51,8 @@ Transitando de gestão de segurança para desenvolvimento seguro (DevSecOps) e c
 ### **Ciência da Computação** - 5º Semestre
 **Universidade Católica de Brasília (UCB)** | 2024 - 2027 (Previsão)
 
-**Principais Disciplinas & Competências:**
-- ✅ Estrutura de Dados
-- ✅ Algoritmos e Programação
-- ✅ Segurança em Computadores
-- ✅ Banco de Dados
-- ✅ Engenharia de Software
-- ✅ Inteligência Artificial & Machine Learning
-
 **Impacto da Formação Acadêmica:**
-> A graduação em Ciência da Computação abriu uma nova perspectiva de análise e abordagem aos desafios de tecnologia. Combinando teoria com 10+ anos de prática, consigo entregar soluções mais robustas e fundamentadas.
+> A graduação em Ciência da Computação abriu uma nova perspectiva de análise e abordagem aos desafios de tecnologia. Combinando teoria com 10 mais  anos de prática, consigo entregar soluções mais robustas e fundamentadas.
 
 ---
 
