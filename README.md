@@ -239,7 +239,7 @@ Estou constantemente evoluindo minhas habilidades com foco em:
 ---
 
 ##  **Entre em Contato**
-## **(61) 98146 - 6969
+## (61) 98146 - 6969 / (61) 99211-5505
 
 <div align="center">
 
