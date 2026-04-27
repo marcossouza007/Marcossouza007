@@ -31,7 +31,7 @@ Minha abordagem é orientada a resolução de problemas reais, com foco em autom
 ## 💼 **Experiência Profissional**
 
 ### **Analista de Redes e Segurança** 
-**10+ Anos na Área de Tecnologia**
+**10 mais Anos na Área de Tecnologia**
 
 - 🔐 **Gestão de Infraestrutura de Redes** - Design, implementação e manutenção
 - 🛡️ **Implementação de Políticas de Segurança** - Compliance e best practices
@@ -63,7 +63,7 @@ Transitando de gestão de segurança para desenvolvimento seguro (DevSecOps) e c
 | Linguagem | Nível | Experiência |
 |-----------|-------|------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | Análise de dados, Automação, Scripts DevSecOps |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐ | OOP, Aplicações Enterprise, Estruturas |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐ | OOP, Aplicações Enterprise, Estruturas, Spring boot |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | Backend & Frontend Seguro |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ⭐⭐⭐ | Programação de Baixo Nível |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ⭐⭐⭐⭐⭐ | Queries, Otimização, Segurança de Dados |
@@ -259,7 +259,7 @@ Estou constantemente evoluindo minhas habilidades com foco em:
 | ✨ Diferenciais | 📈 Valor |
 |---|---|
 | 10 Mais  anos de experiência prática | Análise profunda e soluções maduras |
-| Formação acadêmica em CS | Teoria + Prática combinadas |
+| Formação acadêmica em CS | Teoria mais Prática combinadas |
 | Foco em Segurança | Código robusto e vulnerável |
 | Automação & DevSecOps | Eficiência e escalabilidade |
 | Data-driven mindset | Decisões baseadas em dados |
